@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c5419461-12e0-47a5-933c-d9149550245f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerCanMove.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9674024A-B0E7-4D27-BBE9-EAA30DAB34D1/4a/e06c8c21/GameObject.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Menu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/HealthBar.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerHealth.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/PlayerScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/DeathZone.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/HealthSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerHealth.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/HeartScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/HealthBar.cs" />
+        <option value="$PROJECT_DIR$/Assets/GameStarts.cs" />
+        <option value="$PROJECT_DIR$/Assets/LoadSpecificScene.cs" />
+        <option value="$PROJECT_DIR$/Assets/DontDestroyOnLoad.cs" />
+        <option value="$PROJECT_DIR$/Assets/Ladder.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Ladder.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerSpawn.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameStarts.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerCanMove.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LoadSpecificScene.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameObjects.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DeathZone.cs" />
+        <option value="$PROJECT_DIR$/Assets/Menu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/KeyInteractScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CameraFollow.cs" />
+        <option value="$PROJECT_DIR$/Assets/AudioManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Menu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AudioManager.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1k6gDU5rpoMacQ7rCWGaYQjm6jI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Standalone Player" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/../Tiles_Export\Tiles.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="D:\Drive\Unity\Tiles_Export" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c5419461-12e0-47a5-933c-d9149550245f" name="Default Changelist" comment="" />
+      <created>1605026338158</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605026338158</updated>
+      <workItem from="1605026341122" duration="15015000" />
+      <workItem from="1605095905159" duration="18985000" />
+      <workItem from="1605138014768" duration="3247000" />
+      <workItem from="1605207385854" duration="12486000" />
+      <workItem from="1605284637306" duration="4339000" />
+      <workItem from="1605297298073" duration="2751000" />
+      <workItem from="1605372910212" duration="1847000" />
+      <workItem from="1605401375136" duration="2695000" />
+      <workItem from="1605451506101" duration="6904000" />
+      <workItem from="1605555593535" duration="5606000" />
+      <workItem from="1605566599241" duration="19000" />
+      <workItem from="1605830718005" duration="1371000" />
+      <workItem from="1606084289901" duration="3612000" />
+      <workItem from="1606093977937" duration="1720000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="914" y="191" key="#Inspection_severity" timestamp="1605453186140">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="914" y="191" key="#Inspection_severity/0.0.1920.1040@0.0.1920.1040" timestamp="1605453186140" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1605027033254">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1605027033254" />
+    <state x="638" y="119" width="644" height="801" key="find.popup" timestamp="1605207428964">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="638" y="119" width="644" height="801" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1605207428964" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1605221818048">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1605221818048" />
+  </component>
+</project>

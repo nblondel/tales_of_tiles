@@ -1,0 +1,3368 @@
+fileFormatVersion: 2
+guid: f1bf3156b5249e347918a38127fb44d9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7284063915931485354
+    second: treasure_chests_32x32_0
+  - first:
+      213: 3583762077886900124
+    second: treasure_chests_32x32_1
+  - first:
+      213: -8767521389828274737
+    second: treasure_chests_32x32_2
+  - first:
+      213: -2338884902671687731
+    second: treasure_chests_32x32_3
+  - first:
+      213: 6053150261446788724
+    second: treasure_chests_32x32_4
+  - first:
+      213: -1628760724479039859
+    second: treasure_chests_32x32_5
+  - first:
+      213: -6641200158302306091
+    second: treasure_chests_32x32_6
+  - first:
+      213: -4214750111111041346
+    second: treasure_chests_32x32_7
+  - first:
+      213: -4465528598904503472
+    second: treasure_chests_32x32_8
+  - first:
+      213: -4497909845949687223
+    second: treasure_chests_32x32_9
+  - first:
+      213: -3352826204484653237
+    second: treasure_chests_32x32_10
+  - first:
+      213: 5293177621993391864
+    second: treasure_chests_32x32_11
+  - first:
+      213: 2335931820244368932
+    second: treasure_chests_32x32_12
+  - first:
+      213: -5228711876327711278
+    second: treasure_chests_32x32_13
+  - first:
+      213: 2960125662926475363
+    second: treasure_chests_32x32_14
+  - first:
+      213: 1714904728975303676
+    second: treasure_chests_32x32_15
+  - first:
+      213: -562094659890188216
+    second: treasure_chests_32x32_16
+  - first:
+      213: 3845420388936484952
+    second: treasure_chests_32x32_17
+  - first:
+      213: 5336613868530342500
+    second: treasure_chests_32x32_18
+  - first:
+      213: -803216420989876146
+    second: treasure_chests_32x32_19
+  - first:
+      213: -4328410195369950342
+    second: treasure_chests_32x32_20
+  - first:
+      213: 9085229301738304396
+    second: treasure_chests_32x32_21
+  - first:
+      213: 3072312402414063419
+    second: treasure_chests_32x32_22
+  - first:
+      213: 4125178992085125905
+    second: treasure_chests_32x32_23
+  - first:
+      213: -488927542904956626
+    second: treasure_chests_32x32_24
+  - first:
+      213: -6357521297072918885
+    second: treasure_chests_32x32_25
+  - first:
+      213: 5440967318053988655
+    second: treasure_chests_32x32_26
+  - first:
+      213: 2475458157528960471
+    second: treasure_chests_32x32_27
+  - first:
+      213: -4493707333543220303
+    second: treasure_chests_32x32_28
+  - first:
+      213: -8353506181150140174
+    second: treasure_chests_32x32_29
+  - first:
+      213: -1197562423235802895
+    second: treasure_chests_32x32_30
+  - first:
+      213: -5977012168126322039
+    second: treasure_chests_32x32_31
+  - first:
+      213: -1673328356154015048
+    second: treasure_chests_32x32_32
+  - first:
+      213: -5893531217932984300
+    second: treasure_chests_32x32_33
+  - first:
+      213: 1784514799080414083
+    second: treasure_chests_32x32_34
+  - first:
+      213: 4941789756054824158
+    second: treasure_chests_32x32_35
+  - first:
+      213: 435076373042196888
+    second: treasure_chests_32x32_36
+  - first:
+      213: -4634552749125572569
+    second: treasure_chests_32x32_37
+  - first:
+      213: -7912494033639425461
+    second: treasure_chests_32x32_38
+  - first:
+      213: 2363247877104002181
+    second: treasure_chests_32x32_39
+  - first:
+      213: 5784958349729279468
+    second: treasure_chests_32x32_40
+  - first:
+      213: -8658802179749345265
+    second: treasure_chests_32x32_41
+  - first:
+      213: 1418178260875465775
+    second: treasure_chests_32x32_42
+  - first:
+      213: -3677013500323731022
+    second: treasure_chests_32x32_43
+  - first:
+      213: -7387690285135836483
+    second: treasure_chests_32x32_44
+  - first:
+      213: -310552836014729324
+    second: treasure_chests_32x32_45
+  - first:
+      213: 8394127079224457795
+    second: treasure_chests_32x32_46
+  - first:
+      213: 4838379932101190180
+    second: treasure_chests_32x32_47
+  - first:
+      213: -3540339166461750891
+    second: treasure_chests_32x32_48
+  - first:
+      213: 2333683832420564741
+    second: treasure_chests_32x32_49
+  - first:
+      213: -1759662361214170032
+    second: treasure_chests_32x32_50
+  - first:
+      213: 9219702928579675111
+    second: treasure_chests_32x32_51
+  - first:
+      213: 7732112071137848772
+    second: treasure_chests_32x32_52
+  - first:
+      213: 6138232443365534277
+    second: treasure_chests_32x32_53
+  - first:
+      213: 4454075373563638286
+    second: treasure_chests_32x32_54
+  - first:
+      213: -6168199448522833425
+    second: treasure_chests_32x32_55
+  - first:
+      213: 5849157815843243110
+    second: treasure_chests_32x32_56
+  - first:
+      213: -7353750467570272819
+    second: treasure_chests_32x32_57
+  - first:
+      213: 8821305672406247567
+    second: treasure_chests_32x32_58
+  - first:
+      213: -4904045897264965076
+    second: treasure_chests_32x32_59
+  - first:
+      213: -2693957992218809118
+    second: treasure_chests_32x32_60
+  - first:
+      213: 7922950841599272457
+    second: treasure_chests_32x32_61
+  - first:
+      213: 9158675422177699870
+    second: treasure_chests_32x32_62
+  - first:
+      213: 8526688542659126066
+    second: treasure_chests_32x32_63
+  - first:
+      213: 9222261598579866532
+    second: treasure_chests_32x32_64
+  - first:
+      213: 4109055029752793267
+    second: treasure_chests_32x32_65
+  - first:
+      213: -7210877058363136368
+    second: treasure_chests_32x32_66
+  - first:
+      213: -7592868184951422411
+    second: treasure_chests_32x32_67
+  - first:
+      213: -6002029171880757308
+    second: treasure_chests_32x32_68
+  - first:
+      213: 6181700912015501419
+    second: treasure_chests_32x32_69
+  - first:
+      213: -31975320611941762
+    second: treasure_chests_32x32_70
+  - first:
+      213: 2853515504241225566
+    second: treasure_chests_32x32_71
+  - first:
+      213: -8751772256365210523
+    second: treasure_chests_32x32_72
+  - first:
+      213: -4363623565553636919
+    second: treasure_chests_32x32_73
+  - first:
+      213: 4745643241228195816
+    second: treasure_chests_32x32_74
+  - first:
+      213: 3903295072093279894
+    second: treasure_chests_32x32_75
+  - first:
+      213: -443837494734946771
+    second: treasure_chests_32x32_76
+  - first:
+      213: 7557799523860794471
+    second: treasure_chests_32x32_77
+  - first:
+      213: 720471976070478899
+    second: treasure_chests_32x32_78
+  - first:
+      213: 8723420206629629137
+    second: treasure_chests_32x32_79
+  - first:
+      213: 4118480095071884045
+    second: treasure_chests_32x32_80
+  - first:
+      213: 7169724124015638559
+    second: treasure_chests_32x32_81
+  - first:
+      213: 3380388974918645779
+    second: treasure_chests_32x32_82
+  - first:
+      213: 1559734782167865953
+    second: treasure_chests_32x32_83
+  - first:
+      213: 4760293575418169449
+    second: treasure_chests_32x32_84
+  - first:
+      213: -4648038668045436229
+    second: treasure_chests_32x32_85
+  - first:
+      213: 6776369605634193706
+    second: treasure_chests_32x32_86
+  - first:
+      213: -6133936821896696058
+    second: treasure_chests_32x32_87
+  - first:
+      213: -4203132527818282295
+    second: treasure_chests_32x32_88
+  - first:
+      213: 4259176223788279774
+    second: treasure_chests_32x32_89
+  - first:
+      213: -2974018776600895920
+    second: treasure_chests_32x32_90
+  - first:
+      213: -3979863005699380394
+    second: treasure_chests_32x32_91
+  - first:
+      213: 8158740417372651251
+    second: treasure_chests_32x32_92
+  - first:
+      213: 2070739733417082760
+    second: treasure_chests_32x32_93
+  - first:
+      213: -4768072529576587279
+    second: treasure_chests_32x32_94
+  - first:
+      213: -5977714548359105740
+    second: treasure_chests_32x32_95
+  - first:
+      213: 3915643136071555701
+    second: treasure_chests_32x32_96
+  - first:
+      213: -5121869495549277423
+    second: treasure_chests_32x32_97
+  - first:
+      213: -4655940219535723896
+    second: treasure_chests_32x32_98
+  - first:
+      213: 3942454713585009584
+    second: treasure_chests_32x32_99
+  - first:
+      213: 1252427888271864395
+    second: treasure_chests_32x32_100
+  - first:
+      213: 351147477252413763
+    second: treasure_chests_32x32_101
+  - first:
+      213: -8678530856408596715
+    second: treasure_chests_32x32_102
+  - first:
+      213: -1939746273763889267
+    second: treasure_chests_32x32_103
+  - first:
+      213: -2274419713917301096
+    second: treasure_chests_32x32_104
+  - first:
+      213: -963780168737738348
+    second: treasure_chests_32x32_105
+  - first:
+      213: -9065777633640556572
+    second: treasure_chests_32x32_106
+  - first:
+      213: 1584466680048107880
+    second: treasure_chests_32x32_107
+  - first:
+      213: 789412065943815049
+    second: treasure_chests_32x32_108
+  - first:
+      213: 1811977328556432748
+    second: treasure_chests_32x32_109
+  - first:
+      213: -120327264408570297
+    second: treasure_chests_32x32_110
+  - first:
+      213: 3547610025777481497
+    second: treasure_chests_32x32_111
+  - first:
+      213: 1145793752410353934
+    second: treasure_chests_32x32_112
+  - first:
+      213: -6150953264909193656
+    second: treasure_chests_32x32_113
+  - first:
+      213: -7237130796258789700
+    second: treasure_chests_32x32_114
+  - first:
+      213: -4945389689820884338
+    second: treasure_chests_32x32_115
+  - first:
+      213: 3714203999094943417
+    second: treasure_chests_32x32_116
+  - first:
+      213: -6711602534005618910
+    second: treasure_chests_32x32_117
+  - first:
+      213: -2505236173044012134
+    second: treasure_chests_32x32_118
+  - first:
+      213: 2449858619087298703
+    second: treasure_chests_32x32_119
+  - first:
+      213: -2010247978534576644
+    second: treasure_chests_32x32_0
+  - first:
+      213: -1656366064949187587
+    second: treasure_chests_32x32_1
+  - first:
+      213: 922402892576058641
+    second: treasure_chests_32x32_2
+  - first:
+      213: -482427222884850066
+    second: treasure_chests_32x32_3
+  - first:
+      213: -3238939163793506858
+    second: treasure_chests_32x32_4
+  - first:
+      213: 5328509741200782628
+    second: treasure_chests_32x32_5
+  - first:
+      213: -4418713727531648519
+    second: treasure_chests_32x32_6
+  - first:
+      213: 4837290753742346515
+    second: treasure_chests_32x32_7
+  - first:
+      213: -3002746152361379900
+    second: treasure_chests_32x32_8
+  - first:
+      213: 4011199262818410220
+    second: treasure_chests_32x32_9
+  - first:
+      213: -8429893579746689479
+    second: treasure_chests_32x32_10
+  - first:
+      213: -5647735914600098945
+    second: treasure_chests_32x32_11
+  - first:
+      213: 6452982298540092897
+    second: treasure_chests_32x32_12
+  - first:
+      213: -524060948404125778
+    second: treasure_chests_32x32_13
+  - first:
+      213: -8265894005806244850
+    second: treasure_chests_32x32_14
+  - first:
+      213: 4796478061118289880
+    second: treasure_chests_32x32_15
+  - first:
+      213: 2403795185984647852
+    second: treasure_chests_32x32_16
+  - first:
+      213: -4611731394260321648
+    second: treasure_chests_32x32_17
+  - first:
+      213: -3801704570790104775
+    second: treasure_chests_32x32_18
+  - first:
+      213: -4502548019253438942
+    second: treasure_chests_32x32_19
+  - first:
+      213: 600226305511174450
+    second: treasure_chests_32x32_20
+  - first:
+      213: 513471701406664195
+    second: treasure_chests_32x32_21
+  - first:
+      213: 6708781835926505660
+    second: treasure_chests_32x32_22
+  - first:
+      213: -1297766067508220677
+    second: treasure_chests_32x32_23
+  - first:
+      213: 8995943580067398431
+    second: treasure_chests_32x32_24
+  - first:
+      213: 3366334873082022290
+    second: treasure_chests_32x32_25
+  - first:
+      213: 1607451380523175241
+    second: treasure_chests_32x32_26
+  - first:
+      213: 6104206043123179873
+    second: treasure_chests_32x32_27
+  - first:
+      213: -4940805509967844136
+    second: treasure_chests_32x32_28
+  - first:
+      213: -6040213286499323897
+    second: treasure_chests_32x32_29
+  - first:
+      213: 2140109366100398748
+    second: treasure_chests_32x32_30
+  - first:
+      213: 1057259454662407528
+    second: treasure_chests_32x32_31
+  - first:
+      213: 4989145996911205558
+    second: treasure_chests_32x32_32
+  - first:
+      213: 867860085460100371
+    second: treasure_chests_32x32_33
+  - first:
+      213: 9016397675979055936
+    second: treasure_chests_32x32_34
+  - first:
+      213: -7062685922959374172
+    second: treasure_chests_32x32_35
+  - first:
+      213: 4663707473281328171
+    second: treasure_chests_32x32_36
+  - first:
+      213: 3667939347347916861
+    second: treasure_chests_32x32_37
+  - first:
+      213: 4329717052989934638
+    second: treasure_chests_32x32_38
+  - first:
+      213: -6764857740289473595
+    second: treasure_chests_32x32_39
+  - first:
+      213: 3165051532867647525
+    second: treasure_chests_32x32_40
+  - first:
+      213: -4186356122039682417
+    second: treasure_chests_32x32_41
+  - first:
+      213: 6269953264887504680
+    second: treasure_chests_32x32_42
+  - first:
+      213: -4551796601348770336
+    second: treasure_chests_32x32_43
+  - first:
+      213: 8108723640138109249
+    second: treasure_chests_32x32_44
+  - first:
+      213: -5883169618490461362
+    second: treasure_chests_32x32_45
+  - first:
+      213: 8230203409289241279
+    second: treasure_chests_32x32_46
+  - first:
+      213: 2537404118796491061
+    second: treasure_chests_32x32_47
+  - first:
+      213: 4448447831224949397
+    second: treasure_chests_32x32_48
+  - first:
+      213: -7177379321999181388
+    second: treasure_chests_32x32_49
+  - first:
+      213: -5520846548552463776
+    second: treasure_chests_32x32_50
+  - first:
+      213: 5840222163551796330
+    second: treasure_chests_32x32_51
+  - first:
+      213: 3682824473850700012
+    second: treasure_chests_32x32_52
+  - first:
+      213: 708750017135673793
+    second: treasure_chests_32x32_53
+  - first:
+      213: -7085426177730620762
+    second: treasure_chests_32x32_54
+  - first:
+      213: -5885170550732459159
+    second: treasure_chests_32x32_55
+  - first:
+      213: -4921117366870161189
+    second: treasure_chests_32x32_56
+  - first:
+      213: 3488556378155823211
+    second: treasure_chests_32x32_57
+  - first:
+      213: -1841085255082006100
+    second: treasure_chests_32x32_58
+  - first:
+      213: -1544940853238800321
+    second: treasure_chests_32x32_59
+  - first:
+      213: 1612014621331076556
+    second: treasure_chests_32x32_60
+  - first:
+      213: 26344907191603449
+    second: treasure_chests_32x32_61
+  - first:
+      213: -322673134108782623
+    second: treasure_chests_32x32_62
+  - first:
+      213: 8232599837191201537
+    second: treasure_chests_32x32_63
+  - first:
+      213: 3875385228906616761
+    second: treasure_chests_32x32_64
+  - first:
+      213: 4342725769274172009
+    second: treasure_chests_32x32_65
+  - first:
+      213: 7003498731667576007
+    second: treasure_chests_32x32_66
+  - first:
+      213: 6012694326750611019
+    second: treasure_chests_32x32_67
+  - first:
+      213: -536794792731643429
+    second: treasure_chests_32x32_68
+  - first:
+      213: -1910729833068966242
+    second: treasure_chests_32x32_69
+  - first:
+      213: 1418307590929062909
+    second: treasure_chests_32x32_70
+  - first:
+      213: 1806870891908037368
+    second: treasure_chests_32x32_71
+  - first:
+      213: 7470626804851501122
+    second: treasure_chests_32x32_72
+  - first:
+      213: 6512646612263424186
+    second: treasure_chests_32x32_73
+  - first:
+      213: 7973296801331533321
+    second: treasure_chests_32x32_74
+  - first:
+      213: 1584914014763220846
+    second: treasure_chests_32x32_75
+  - first:
+      213: -101511388696829186
+    second: treasure_chests_32x32_76
+  - first:
+      213: -5544356786853591789
+    second: treasure_chests_32x32_77
+  - first:
+      213: -8016829064383401275
+    second: treasure_chests_32x32_78
+  - first:
+      213: -3430030350977748596
+    second: treasure_chests_32x32_79
+  - first:
+      213: -4276032279705879180
+    second: treasure_chests_32x32_80
+  - first:
+      213: 6469244163325226841
+    second: treasure_chests_32x32_81
+  - first:
+      213: -8532483999026369630
+    second: treasure_chests_32x32_82
+  - first:
+      213: 423134725704585309
+    second: treasure_chests_32x32_83
+  - first:
+      213: 908440850982347845
+    second: treasure_chests_32x32_84
+  - first:
+      213: -402052741113195743
+    second: treasure_chests_32x32_85
+  - first:
+      213: -614418937337111252
+    second: treasure_chests_32x32_86
+  - first:
+      213: 2149758146507764606
+    second: treasure_chests_32x32_87
+  - first:
+      213: -5321088568835918238
+    second: treasure_chests_32x32_88
+  - first:
+      213: -4206586925963061406
+    second: treasure_chests_32x32_89
+  - first:
+      213: 5236353968314919804
+    second: treasure_chests_32x32_90
+  - first:
+      213: 4617192153222310542
+    second: treasure_chests_32x32_91
+  - first:
+      213: -2727696243061520658
+    second: treasure_chests_32x32_92
+  - first:
+      213: -2278268755653851169
+    second: treasure_chests_32x32_93
+  - first:
+      213: -1709197906037076108
+    second: treasure_chests_32x32_94
+  - first:
+      213: 5699006328008197703
+    second: treasure_chests_32x32_95
+  - first:
+      213: 2502155811009122959
+    second: treasure_chests_32x32_96
+  - first:
+      213: 5702216793583634193
+    second: treasure_chests_32x32_97
+  - first:
+      213: -6389933149365237531
+    second: treasure_chests_32x32_98
+  - first:
+      213: -5462923224651606583
+    second: treasure_chests_32x32_99
+  - first:
+      213: -2627010165244737276
+    second: treasure_chests_32x32_100
+  - first:
+      213: -7041115170332526245
+    second: treasure_chests_32x32_101
+  - first:
+      213: -2710623030578615362
+    second: treasure_chests_32x32_102
+  - first:
+      213: -9201526130062978615
+    second: treasure_chests_32x32_103
+  - first:
+      213: 5650597449008130853
+    second: treasure_chests_32x32_104
+  - first:
+      213: 1763110514327076925
+    second: treasure_chests_32x32_105
+  - first:
+      213: -6186046568182350053
+    second: treasure_chests_32x32_106
+  - first:
+      213: 5915383759727928754
+    second: treasure_chests_32x32_107
+  - first:
+      213: 7032138967506147610
+    second: treasure_chests_32x32_108
+  - first:
+      213: 9096616246564397633
+    second: treasure_chests_32x32_109
+  - first:
+      213: 5443338688629151730
+    second: treasure_chests_32x32_110
+  - first:
+      213: 716612888063902582
+    second: treasure_chests_32x32_111
+  - first:
+      213: 8638637807183070709
+    second: treasure_chests_32x32_112
+  - first:
+      213: 8799515635155913808
+    second: treasure_chests_32x32_113
+  - first:
+      213: -2543955187953892421
+    second: treasure_chests_32x32_114
+  - first:
+      213: 8604406010960317494
+    second: treasure_chests_32x32_115
+  - first:
+      213: -5365108050145056484
+    second: treasure_chests_32x32_116
+  - first:
+      213: -7032146373447819966
+    second: treasure_chests_32x32_117
+  - first:
+      213: -8330424959956053565
+    second: treasure_chests_32x32_118
+  - first:
+      213: 3716948726336182336
+    second: treasure_chests_32x32_119
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: treasure_chests_32x32_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfddff04d1a2a14e0800000000000000
+      internalID: -2010247978534576644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb21b8f6d76309e0800000000000000
+      internalID: -1656366064949187587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11de9cf2b880dcc00800000000000000
+      internalID: 922402892576058641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6668fd2ff21e49f0800000000000000
+      internalID: -482427222884850066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ddbcfcbdf9fc03d0800000000000000
+      internalID: -3238939163793506858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4253b72c06ba2f940800000000000000
+      internalID: 5328509741200782628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f97552b6439da2c0800000000000000
+      internalID: -4418713727531648519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319181cbf42812340800000000000000
+      internalID: 4837290753742346515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c734dd984a1456d0800000000000000
+      internalID: -3002746152361379900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee999f2a74aaa730800000000000000
+      internalID: 4011199262818410220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e3ad4e370030b80800000000000000
+      internalID: -8429893579746689479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_11
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f739b01db163f91b0800000000000000
+      internalID: -5647735914600098945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1edad5e06399d8950800000000000000
+      internalID: 6452982298540092897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_13
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eafb7b118592ab8f0800000000000000
+      internalID: -524060948404125778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c53e04235a94d80800000000000000
+      internalID: -8265894005806244850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_15
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d7f8ed3263809240800000000000000
+      internalID: 4796478061118289880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_16
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2b86d5cfefb5120800000000000000
+      internalID: 2403795185984647852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_17
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ab89d1bb6dfffb0800000000000000
+      internalID: -4611731394260321648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931b31dc5d1ad3bc0800000000000000
+      internalID: -3801704570790104775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_19
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22692489e6cb381c0800000000000000
+      internalID: -4502548019253438942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231b6dc05ae645800800000000000000
+      internalID: 600226305511174450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_21
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3064f8cbac7302700800000000000000
+      internalID: 513471701406664195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb80efdf8816a1d50800000000000000
+      internalID: 6708781835926505660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_23
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfced9033a86dfde0800000000000000
+      internalID: -1297766067508220677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_24
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f138f55060308dc70800000000000000
+      internalID: 8995943580067398431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_25
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29940114bbf97be20800000000000000
+      internalID: 3366334873082022290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_26
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d8bc19380de4610800000000000000
+      internalID: 1607451380523175241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_27
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16166240e0f76b450800000000000000
+      internalID: 6104206043123179873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_28
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dce212f09bbe6bb0800000000000000
+      internalID: -4940805509967844136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_29
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700fc92b40adc2ca0800000000000000
+      internalID: -6040213286499323897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9296e2312233bd10800000000000000
+      internalID: 2140109366100398748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_31
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86573965fd32cae00800000000000000
+      internalID: 1057259454662407528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_32
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc547eb9d10d3540800000000000000
+      internalID: 4989145996911205558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_33
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315e69c46224b0c00800000000000000
+      internalID: 867860085460100371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 043a3665aeda02d70800000000000000
+      internalID: 9016397675979055936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_35
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8cad1a29c4cfd90800000000000000
+      internalID: -7062685922959374172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_36
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24a441dc31d8b040800000000000000
+      internalID: 4663707473281328171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_37
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38c950276327e230800000000000000
+      internalID: 3667939347347916861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_38
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c8a6948be361c30800000000000000
+      internalID: 4329717052989934638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_39
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c38ef91ab56e12a0800000000000000
+      internalID: -6764857740289473595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 528b16899958ceb20800000000000000
+      internalID: 3165051532867647525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_41
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8afa8a894317e5c0800000000000000
+      internalID: -4186356122039682417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_42
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f9be75649530750800000000000000
+      internalID: 6269953264887504680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_43
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5b6c68b15c4d0c0800000000000000
+      internalID: -4551796601348770336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_44
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1419e385039f78070800000000000000
+      internalID: 8108723640138109249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_45
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4371800768ca5ea0800000000000000
+      internalID: -5883169618490461362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_46
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb2e4ef256e873270800000000000000
+      internalID: 8230203409289241279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_47
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5395a703a9ba63320800000000000000
+      internalID: 2537404118796491061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_48
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a150ecbbf0cbd30800000000000000
+      internalID: 4448447831224949397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_49
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b93106b883d46c90800000000000000
+      internalID: -7177379321999181388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ac61690530263b0800000000000000
+      internalID: -5520846548552463776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_51
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c3edb6d13ac0150800000000000000
+      internalID: 5840222163551796330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_52
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce06cf5b8550c1330800000000000000
+      internalID: 3682824473850700012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_53
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c18ceda26cf5d900800000000000000
+      internalID: 708750017135673793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_54
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2dc1a7e628bad90800000000000000
+      internalID: -7085426177730620762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_55
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9637009a09ca35ea0800000000000000
+      internalID: -5885170550732459159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_56
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8c2b9f3dda4bbb0800000000000000
+      internalID: -4921117366870161189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_57
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60b6e2fa87d96030800000000000000
+      internalID: 3488556378155823211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_58
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9a0a907b62376e0800000000000000
+      internalID: -1841085255082006100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_59
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3066bbba744f8ae0800000000000000
+      internalID: -1544940853238800321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc5bc2dd1c60f5610800000000000000
+      internalID: 1612014621331076556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_61
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f0dbc2bd889d5000800000000000000
+      internalID: 26344907191603449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_62
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef42ee7e72a58bf0800000000000000
+      internalID: -322673134108782623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_63
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10368b90fe1104270800000000000000
+      internalID: 8232599837191201537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_64
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b756c0455228c530800000000000000
+      internalID: 3875385228906616761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_65
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962a5821416744c30800000000000000
+      internalID: 4342725769274172009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_66
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4d1f58dfc613160800000000000000
+      internalID: 7003498731667576007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_67
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b460af032a1617350800000000000000
+      internalID: 6012694326750611019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_68
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd173f5eafbec88f0800000000000000
+      internalID: -536794792731643429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_69
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ece2e1759bb75e0800000000000000
+      internalID: -1910729833068966242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb119b4d37dea310800000000000000
+      internalID: 1418307590929062909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_71
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fafb23c08b431910800000000000000
+      internalID: 1806870891908037368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_72
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2486fa87f7ffca760800000000000000
+      internalID: 7470626804851501122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_73
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab0dc9f9691916a50800000000000000
+      internalID: 6512646612263424186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_74
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906df1c4237d6ae60800000000000000
+      internalID: 7973296801331533321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_75
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6fff7136eebef510800000000000000
+      internalID: 1584914014763220846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_76
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2a1180eeb579ef0800000000000000
+      internalID: -101511388696829186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_77
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315c09ba0ec7e03b0800000000000000
+      internalID: -5544356786853591789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_78
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c27660e0708eb090800000000000000
+      internalID: -8016829064383401275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_79
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81b921a1951660d0800000000000000
+      internalID: -3430030350977748596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47df6080c4b78a4c0800000000000000
+      internalID: -4276032279705879180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_81
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95fe4408a4f57c950800000000000000
+      internalID: 6469244163325226841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_82
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab245a8207869980800000000000000
+      internalID: -8532483999026369630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_83
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5011c98ac64fd500800000000000000
+      internalID: 423134725704585309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_84
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544a14e042e6b9c00800000000000000
+      internalID: 908440850982347845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_85
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123d9f0892f9b6af0800000000000000
+      internalID: -402052741113195743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_86
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d9fb85b352977f0800000000000000
+      internalID: -614418937337111252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_87
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73f893f4a975dd10800000000000000
+      internalID: 2149758146507764606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_88
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266b4249322b726b0800000000000000
+      internalID: -5321088568835918238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_89
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2675b217a733f95c0800000000000000
+      internalID: -4206586925963061406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b2e97d0344ba840800000000000000
+      internalID: 5236353968314919804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_91
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a6988eccf831040800000000000000
+      internalID: 4617192153222310542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_92
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6862908b6452ad0800000000000000
+      internalID: -2727696243061520658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_93
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd7816433a6f160e0800000000000000
+      internalID: -2278268755653851169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_94
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f81d76f85b748e0800000000000000
+      internalID: -1709197906037076108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_95
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746c1a98f00f61f40800000000000000
+      internalID: 5699006328008197703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_96
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f82d0eff37179b220800000000000000
+      internalID: 2502155811009122959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_97
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 117c1dd46f7522f40800000000000000
+      internalID: 5702216793583634193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_98
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8879de7a56257a0800000000000000
+      internalID: -6389933149365237531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_99
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5d86f554ccf24b0800000000000000
+      internalID: -5462923224651606583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4094f375c2cfa8bd0800000000000000
+      internalID: -2627010165244737276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_101
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5937b9de0fe84e90800000000000000
+      internalID: -7041115170332526245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_102
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb6e5617bee16ad0800000000000000
+      internalID: -2710623030578615362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_103
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c11f1a8cbc9d4080800000000000000
+      internalID: -9201526130062978615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_104
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52babd41174fa6e40800000000000000
+      internalID: 5650597449008130853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_105
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30c832eba3d77810800000000000000
+      internalID: 1763110514327076925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_106
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f777bdb6fb62aa0800000000000000
+      internalID: -6186046568182350053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_107
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5a2bc303aa71250800000000000000
+      internalID: 5915383759727928754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_108
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19d261122d279160800000000000000
+      internalID: 7032138967506147610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_109
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142a482c74cad3e70800000000000000
+      internalID: 9096616246564397633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f791ef72bf9a8b40800000000000000
+      internalID: 5443338688629151730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_111
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 673048aff9be1f900800000000000000
+      internalID: 716612888063902582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_112
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f50860f05b92e770800000000000000
+      internalID: 8638637807183070709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_113
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05cc6fc29d82e1a70800000000000000
+      internalID: 8799515635155913808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_114
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb30f792c3e02bcd0800000000000000
+      internalID: -2543955187953892421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_115
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c868acdadf86770800000000000000
+      internalID: 8604406010960317494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_116
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19e38967ae4b85b0800000000000000
+      internalID: -5365108050145056484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_117
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d571a912cc86e90800000000000000
+      internalID: -7032146373447819966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_118
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c195c9a2a2646c80800000000000000
+      internalID: -8330424959956053565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_chests_32x32_119
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048db916c21459330800000000000000
+      internalID: 3716948726336182336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

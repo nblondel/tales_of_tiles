@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Dialog>
+	<Line Id="1">
+		<Text>I know who you are.</Text>
+	</Line>
+</Dialog>

@@ -1,0 +1,62 @@
+
+<SIZE=150>Tales of tiles</SIZE>
+
+
+
+
+<size=45>- Don't let your heart become stone again -</size>
+
+
+
+
+
+
+
+
+<size=45>- Development -</size>
+
+Developer: Nicolas Blondel
+
+
+<size=45>- Assets -</size>
+
+Assets - Buch (http://blog-buch.rhcloud.com)
+
+Keyboard keys assets - Gabriel Cortabraz
+
+Chest assets - Bonsaiheldin
+
+https://opengameart.org/
+
+
+
+
+<size=45>- Music -</size>
+
+The Empty Road - Hitctrl
+
+
+
+
+<size=45>- Sounds -</size>
+
+https://opengameart.org/
+
+
+
+
+<size=45>- Special thanks -</size>
+
+Zef (TUTOUNITYFR)
+
+
+
+
+
+
+
+
+
+
+
+<size=70>Thank you for playing!</size>

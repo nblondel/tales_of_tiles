@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4e0d59a91494ef4b9818b5adeea28a6, type: 3}
+  m_Name: Dialog_Color_Player
+  m_EditorClassIdentifier: 
+  dialogColor: {r: 0.023529412, g: 0.5882353, b: 0.85882354, a: 1}
+  dialogFont: {fileID: 12800000, guid: a6c977dff42d29649a5c4651e6420fae, type: 3}
+  dialogFontSize: 115
+  dialogFontStyle: 0
+  dialogTextAnchor: 0
+  letterByLetter: 1

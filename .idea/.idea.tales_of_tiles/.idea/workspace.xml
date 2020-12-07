@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e3a6e841-cd8f-4a6c-a749-e129b6e41eeb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.tales_of_tiles/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.tales_of_tiles/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.tales_of_tiles/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.tales_of_tiles/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Scene1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Scene1.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/41C3F0DB-5B29-4EE7-952C-69A689436367/80/8c1cab42/AudioSource.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/526469D5-A48C-43EE-BD9A-F19F8745AFA1/2b/88627d55/WaitForEndOfFrame.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/526469D5-A48C-43EE-BD9A-F19F8745AFA1/55/c1769ce3/SceneManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Dialogs/DialogColorAndFont.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/63DD8BF9-8CFA-4BA9-85AF-735EF1A56BA9/8c/725727cd/FileStream.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Chest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Dialogs/DialogTrigger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/526469D5-A48C-43EE-BD9A-F19F8745AFA1/af/437eade7/GameObject.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/InputsEventManager.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Scenes/Credits.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Game/AudioManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/DialogManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Dialog.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Menu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LadderTop.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LadderBottom.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/KeyInteractScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ItemKeyInteractScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/KeyInteractItem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/KeyInteractStandAlone.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Dialog.cs" />
+        <option value="$PROJECT_DIR$/Assets/Texts/Dialogs/Scene1/Scene1.xml" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DialogXMLObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/PlayerSounds.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AudioManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameStarts.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MovementEventManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Credits.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Ladder.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DialogObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/Texts/Dialogs/Scene1.xml" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DialogEventManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DialogTrigger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DialogManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerSounds.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerHealth.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerStoneToPlayer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerDialogTrigger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerStoneToPlayer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Chest.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Ladder/Ladder.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/InputsEventManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CameraFollow.cs" />
+        <option value="$PROJECT_DIR$/Assets/Texts/Dialogs/Scene1_Player_XML.xml" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerDialogTrigger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Texts/Dialogs/Scene1_Sign_XML.xml" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Dialogs/ColliderDialogTrigger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Dialogs/DialogXMLObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Dialogs/DialogColor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Texts/Dialogs/Scene1/Scene1_Sign_XML.xml" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Dialogs/DialogInfo.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Dialogs/DialogTrigger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Dialogs/DialogManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Dialogs/DialogColorAndFont.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1khhadBQdbmlQmwPlxxAobeWaG4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C#" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Standalone Player" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/../../Unity/Tiles_Export\Tiles.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="D:\Drive\Unity\Tiles_Export" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e3a6e841-cd8f-4a6c-a749-e129b6e41eeb" name="Default Changelist" comment="" />
+      <created>1606158796986</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606158796986</updated>
+      <workItem from="1606158808428" duration="1415000" />
+      <workItem from="1606168687114" duration="2040000" />
+      <workItem from="1606173143729" duration="520000" />
+      <workItem from="1606173851454" duration="736000" />
+      <workItem from="1606269682462" duration="21603000" />
+      <workItem from="1606522328868" duration="9584000" />
+      <workItem from="1606589653513" duration="490000" />
+      <workItem from="1606590656077" duration="15842000" />
+      <workItem from="1606671421182" duration="15909000" />
+      <workItem from="1606697482523" duration="392000" />
+      <workItem from="1606701277956" duration="964000" />
+      <workItem from="1606702253613" duration="1063000" />
+      <workItem from="1606737913362" duration="5715000" />
+      <workItem from="1606784206531" duration="1702000" />
+      <workItem from="1606841931958" duration="2985000" />
+      <workItem from="1606944947579" duration="89000" />
+      <workItem from="1607019627476" duration="6383000" />
+      <workItem from="1607036157213" duration="7704000" />
+      <workItem from="1607044077450" duration="203000" />
+      <workItem from="1607180053065" duration="24641000" />
+      <workItem from="1607259708719" duration="606000" />
+      <workItem from="1607267081812" duration="9138000" />
+      <workItem from="1607298181837" duration="8360000" />
+      <workItem from="1607308102621" duration="544000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="536" y="165" key="#Inspection_severity" timestamp="1606612207288">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="536" y="165" key="#Inspection_severity/0.0.1920.1040@0.0.1920.1040" timestamp="1606612207288" />
+    <state x="707" y="365" key="ANALYSIS_DLG_com.jetbrains.rider.actions.impl.cleanup.RiderCodeCleanupAction$actionPerformed$dlg$1" timestamp="1607185741105">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="707" y="365" key="ANALYSIS_DLG_com.jetbrains.rider.actions.impl.cleanup.RiderCodeCleanupAction$actionPerformed$dlg$1/0.0.1920.1040@0.0.1920.1040" timestamp="1607185741105" />
+    <state x="552" y="252" key="Rider.ProjectTemplateDialog.Size" timestamp="1606608952814">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Rider.ProjectTemplateDialog.Size/0.0.1920.1040@0.0.1920.1040" timestamp="1606608952814" />
+    <state x="727" y="244" key="RiderGenerateDialog" timestamp="1607044131333">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="727" y="244" key="RiderGenerateDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607044131333" />
+    <state x="107" y="69" width="1628" height="806" key="SettingsEditor" timestamp="1607184592499">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="107" y="69" width="1628" height="806" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1607184592499" />
+    <state x="92" y="92" width="1736" height="856" key="VCS.FileHistoryDialog" timestamp="1606612516255">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="VCS.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606612516255" />
+    <state x="638" y="208" width="644" height="624" key="find.popup" timestamp="1606843831692">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="638" y="208" width="644" height="624" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1606843831692" />
+  </component>
+</project>

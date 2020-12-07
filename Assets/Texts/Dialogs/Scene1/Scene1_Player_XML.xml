@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Dialog>
+	<Line Id="1">
+		<Text>What happened ?</Text>
+		<Text>Where am I ?</Text>
+		<Text>I feel so unconfortable.</Text>
+	</Line>
+	<Line Id="2">
+		<Text>I feel like I've been here before.</Text>
+		<Text>Is this chest cursed?</Text>
+	</Line>
+	<Line Id="3">
+		<Text>Is this a joke?</Text>
+		<Text>I should try something else.</Text>
+	</Line>
+</Dialog>
