@@ -8,11 +8,15 @@ public class PlayerScript : MonoBehaviour {
     private bool _stopJumpAsked;
     private bool _landing;
     private Vector2 _movement;
+    private float _oldVelocityX;
     private PlayerSounds _playerSounds;
 
     public Animator animator;
     public LayerMask collisionLayer;
     public GameObject characterHolder;
+
+    [Header("Steps")] 
+    public GameObject steps;
 
     [Header("Physics")] 
     public float maxSpeed = 7f;
@@ -119,7 +123,14 @@ public class PlayerScript : MonoBehaviour {
             _rb.velocity = Vector3.SmoothDamp(velocity, targetVelocity, ref _velocity, .05f);
         } else {
             Vector3 targetVelocity = new Vector2(horizontalMovement * horizontalSpeed, velocity.y);
+            _oldVelocityX = _rb.velocity.x; 
             _rb.velocity = Vector3.SmoothDamp(velocity, targetVelocity, ref _velocity, .05f);
+
+            if (_oldVelocityX == 0f) {
+                if(_rb.velocity.x > 0f || _rb.velocity.x < 0f) {
+                    StartSteps();
+                }
+            }
             
             if ((horizontalMovement > 0 && !_facingRight) || (horizontalMovement < 0 && _facingRight)) {
                 Flip();
@@ -134,6 +145,7 @@ public class PlayerScript : MonoBehaviour {
     }
     
     private void Jump() {
+        StopSteps();
         animator.SetTrigger("jumpInitiated");
         _rb.velocity = new Vector2(_rb.velocity.x, 0);
         _rb.AddForce(Vector2.up * jumpSpeed, ForceMode2D.Impulse);
@@ -167,6 +179,7 @@ public class PlayerScript : MonoBehaviour {
     }
 
     public void Stop() {
+        StopSteps();
         _movement = Vector2.zero;
         _rb.velocity = Vector3.zero;
         _rb.Sleep();
@@ -175,7 +188,7 @@ public class PlayerScript : MonoBehaviour {
     private void MoveCameraTarget(float horizontalMovement) {
         // Move the camera target
         var localPosition = cameraTarget.localPosition;
-        var nextLocalPositionX = 0f;
+        float nextLocalPositionX;
         if (horizontalMovement == 0f) {
             // Go back to player position
             nextLocalPositionX = Mathf.Lerp(localPosition.x, 0f, cameraSpeed * 2f * Time.deltaTime);
@@ -184,6 +197,18 @@ public class PlayerScript : MonoBehaviour {
             nextLocalPositionX = Mathf.Lerp(localPosition.x, cameraOffset * Mathf.Abs(horizontalMovement), cameraSpeed * Time.deltaTime);
         }
         cameraTarget.localPosition = new Vector3(nextLocalPositionX, localPosition.y, localPosition.z);
+    }
+    
+    // ---------------
+    // STEPS FUNCTIONS
+    // ---------------
+
+    private void StartSteps() {
+        steps.SetActive(true);
+    }
+
+    public void StopSteps() {
+        steps.SetActive(false);
     }
     
     // ----------------------------

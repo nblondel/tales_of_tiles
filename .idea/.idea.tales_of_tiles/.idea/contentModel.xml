@@ -44,6 +44,8 @@
             <e p="PlayerSounds.cs" t="Include" />
             <e p="PlayerSpawn.cs" t="Include" />
             <e p="PlayerStoneToPlayer.cs" t="Include" />
+            <e p="Steps.cs" t="Include" />
+            <e p="StepsAnimation.cs" t="Include" />
           </e>
           <e p="UI" t="Include">
             <e p="KeyInteractItem.cs" t="Include" />

@@ -20,11 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e3a6e841-cd8f-4a6c-a749-e129b6e41eeb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.tales_of_tiles/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.tales_of_tiles/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.tales_of_tiles/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.tales_of_tiles/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.tales_of_tiles/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.tales_of_tiles/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Dude/Walk_Run_Push_Dust_6.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Dude/Walk_Run_Push_Dust_6.png.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Scene1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Scene1.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Player/PlayerScript.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Player/PlayerScript.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +40,7 @@
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/526469D5-A48C-43EE-BD9A-F19F8745AFA1/55/c1769ce3/SceneManager.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Dialogs/DialogColorAndFont.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/63DD8BF9-8CFA-4BA9-85AF-735EF1A56BA9/8c/725727cd/FileStream.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/Steps.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Chest.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Dialogs/DialogTrigger.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/526469D5-A48C-43EE-BD9A-F19F8745AFA1/af/437eade7/GameObject.cs" root0="SKIP_HIGHLIGHTING" />
@@ -48,7 +49,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/Scenes/Credits.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Game/AudioManager.cs" />
         <option value="$PROJECT_DIR$/Assets/DialogManager.cs" />
         <option value="$PROJECT_DIR$/Assets/Dialog.cs" />
@@ -93,9 +93,13 @@
         <option value="$PROJECT_DIR$/Assets/Texts/Dialogs/Scene1/Scene1_Sign_XML.xml" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Dialogs/DialogInfo.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Dialogs/DialogTrigger.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerScript.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Dialogs/DialogManager.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Dialogs/DialogColorAndFont.cs" />
+        <option value="$PROJECT_DIR$/Assets/StepsLeft.cs" />
+        <option value="$PROJECT_DIR$/Assets/StepsRight.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/Steps.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/StepsAnimation.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerScript.cs" />
       </list>
     </option>
   </component>
@@ -172,6 +176,7 @@
       <workItem from="1607267081812" duration="9138000" />
       <workItem from="1607298181837" duration="8360000" />
       <workItem from="1607308102621" duration="544000" />
+      <workItem from="1607384588939" duration="7784000" />
     </task>
     <servers />
   </component>
