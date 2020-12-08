@@ -21,17 +21,12 @@
   <component name="ChangeListManager">
     <list default="true" id="e3a6e841-cd8f-4a6c-a749-e129b6e41eeb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.tales_of_tiles/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.tales_of_tiles/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animation/Credits/Content.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Credits/Content.controller" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animation/Credits/Main Camera.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Credits/Main Camera.controller" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animation/Player/Dude.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Player/Dude.controller" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animation/Player/Steps.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Player/Steps.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animation/Player/Steps.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Player/Steps.controller" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animation/Props/Smoke1.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Props/Smoke1.controller" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animation/Props/torch-B-01.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Props/torch-B-01.controller" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animation/Props/torch-C-01.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Props/torch-C-01.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Audio/AudioMixer.mixer" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Audio/AudioMixer.mixer" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Scene1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Scene1.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Player/PlayerScript.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Player/PlayerScript.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Player/Steps.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Player/Steps.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Scene2.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Scene2.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Scene2.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Scene2.unity.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Basics/DontDestroyOnLoad.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Basics/DontDestroyOnLoad.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +51,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/Game/AudioManager.cs" />
         <option value="$PROJECT_DIR$/Assets/DialogManager.cs" />
         <option value="$PROJECT_DIR$/Assets/Dialog.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Menu.cs" />
@@ -107,6 +101,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Player/StepsAnimation.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Player/Steps.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Basics/DontDestroyOnLoad.cs" />
       </list>
     </option>
   </component>
@@ -184,7 +179,7 @@
       <workItem from="1607298181837" duration="8360000" />
       <workItem from="1607308102621" duration="544000" />
       <workItem from="1607384588939" duration="8140000" />
-      <workItem from="1607463516139" duration="730000" />
+      <workItem from="1607463516139" duration="2223000" />
     </task>
     <servers />
   </component>
