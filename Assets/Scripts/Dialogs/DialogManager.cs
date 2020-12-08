@@ -138,7 +138,7 @@ public class DialogManager : MonoBehaviour {
 
     // Move the dialog box in the UI canvas (up)
     private IEnumerator OpenDialog() {
-        var endPosition = new Vector2(_dialogBoxStartPosition.x, _dialogBoxStartPosition.y + 88f);
+        var endPosition = new Vector2(_dialogBoxStartPosition.x, _dialogBoxStartPosition.y + 95f);
         var currentTime = 0f;
         while (currentTime <= 1.0f) {
             currentTime += Time.deltaTime / _timeOfTravel;
