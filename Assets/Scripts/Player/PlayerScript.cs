@@ -130,6 +130,8 @@ public class PlayerScript : MonoBehaviour {
                 if(_rb.velocity.x > 0f || _rb.velocity.x < 0f) {
                     StartSteps();
                 }
+            } else if (_rb.velocity.x == 0f) {
+                StopSteps();
             }
             
             if ((horizontalMovement > 0 && !_facingRight) || (horizontalMovement < 0 && _facingRight)) {
